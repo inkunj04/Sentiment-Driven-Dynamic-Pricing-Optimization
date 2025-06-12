@@ -1,0 +1,12 @@
+
+🔍 Review Analysis Report
+
+💬 Review: not good bad 
+⭐ Rating: 2
+💰 Current Price: ₹500.00
+
+📊 Predicted Optimal Price: ₹71.65
+📉 Safe Price Range: ₹19.99 - ₹129.99
+👥 Customer Cluster: 1
+💬 Sentiment: Negative 😔
+🔁 Expected Sentiment Shift: -0.246
